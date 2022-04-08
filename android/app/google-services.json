@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "875223671902",
+    "project_id": "contactsbackup-f3a09",
+    "storage_bucket": "contactsbackup-f3a09.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875223671902:android:bbe0efc7d720bd769640cf",
+        "android_client_info": {
+          "package_name": "com.example.untitled1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "875223671902-2kqpqn0kr5mbpqihreaonjoknk9l2502.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.untitled1",
+            "certificate_hash": "340f8b8f42996ccc060237a52c3624b0d95bae4a"
+          }
+        },
+        {
+          "client_id": "875223671902-i28rt13e2gjamap92f0thpcro5hu1639.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlHGEnE_wDnUOf2aXfplXupXNXPv2nOys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "875223671902-i28rt13e2gjamap92f0thpcro5hu1639.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
